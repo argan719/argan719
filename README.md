@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Computer vision, C++, Segmentation, Network
-- 🤔 I’m interested in Autonomous driving, Digital twin, C++, LiDAR, Business, AI ...
+- 🤔 I’m interested in Autonomous driving, Digital twin, C++, LiDAR, AI, Business ...
 - 📫 How to reach me: jihy719@gmail.com
 
 
