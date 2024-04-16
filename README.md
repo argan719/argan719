@@ -21,5 +21,6 @@ Hi, I'm Jihyun —a passionate developer currently diving deep into the world of
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=argan719&show_icons=true&theme=prussian) 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argan719&layout=compact&theme=ambient_gradient) -->
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=argan719)](https://solved.ac/argan719) 
 
+[![Solved.ac
+argan719](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
