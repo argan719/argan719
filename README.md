@@ -3,7 +3,7 @@
 Hi, I'm Jihyun —a passionate developer currently diving deep into the world of autonomous driving and computer vision. With a keen interest in the practical applications of technology, I'm focused on shaping the future of mobility.
 
 #### What I'm Working On:
-- 🌱 **Expanding My Expertise:** Currently, I am enhancing my skills in C++, Rust and 전장SW, with a focus on leveraging open-source tools and frameworks.
+- 🌱 **Expanding My Expertise:** Currently, I am enhancing my skills in C++, Rust and CAR, with a focus on leveraging open-source tools and frameworks.
 - 🚗 **Autonomous Driving:** Exploring innovations in autonomous vehicles, focusing on technologies like LiDAR and AI algorithms that enhance real-time decision-making processes.
 
 #### I'm Interested In:
