@@ -12,7 +12,7 @@ My goal is to develop robust, real-time software that brings intelligent and saf
 - <b>AI Systems at the Edge:</b> Engineering intelligent systems by deploying optimized AI models directly on embedded hardware. My current focus is on the practical application of Large Language Models (LLMs) for in-vehicle systems, from advanced diagnostics to interpreting complex sensor data.
 
 
-### 🚀 Project Highlights:
+### 🚀 Latest Project Highlights:
 <b>On-Device Hybrid LLM Voice Assistant:</b>
 Engineered a fully on-device voice assistant featuring a real-time, dual-LLM routing engine. The system intelligently delegates incoming commands to one of two different LLM models based on command type and complexity.
 This architecture achieves optimal performance and capability—all while ensuring zero cloud dependency, minimal latency, and complete user privacy.
