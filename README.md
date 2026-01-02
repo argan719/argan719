@@ -31,7 +31,7 @@ This critical, foundational work unlocked modern C++ features and compiler optim
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=argan719&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://[github-readme-stats.vercel.app](https://github-readme-stats-rl08ss0dc-argan719s-projects.vercel.app)/api?username=argan719&show_icons=true&theme=dracula)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argan719&layout=compact&theme=ambient_gradient) -->
 
 [![Solved.ac
