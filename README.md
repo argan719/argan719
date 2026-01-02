@@ -23,8 +23,8 @@ This critical, foundational work unlocked modern C++ features and compiler optim
 
 <br>
 
-#### Let's Connect!
-- Email: [jihy719@gmail.com](mailto:jihy719@gmail.com)
+#### 📫 Let's Connect!
+- I'm always open to discussing new technologies or collaborating on exciting projects. Feel free to reach out to me at [jihy719@gmail.com](mailto:jihy719@gmail.com)
 <br>
 
 
