@@ -21,7 +21,6 @@ This architecture achieves optimal performance and capability—all while ensuri
 Executed a complex toolchain upgrade by successfully backporting GCC 12 into a legacy Yocto SDK environment originally built with GCC 9.
 This critical, foundational work unlocked modern C++ features and compiler optimizations, directly enabling the successful porting and optimization of the cutting-edge BitNet (1-bit LLM) architecture for a resource-constrained ARM target.
 
-<br>
 
 #### 📫 Let's Connect!
 - I'm always open to discussing new technologies or collaborating on exciting projects. Feel free to reach out to me at [jihy719@gmail.com](mailto:jihy719@gmail.com)
