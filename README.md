@@ -6,10 +6,10 @@ My goal is to develop robust, real-time software that brings intelligent and saf
 
 
 ### 🔭 My Core Interests & Focus Areas:
-- <b>System Architecture & Embedded C/C++:</b> Designing and building robust, real-time embedded systems from the ground up. My expertise lies in architecting high-performance software in C and C++ that runs efficiently on resource-constrained hardware.<br>
-- <b>Linux Kernel & Hardware Enablement (ARM):</b> Specializing in hardware bring-up and systems programming on ARM architectures. I have hands-on experience developing Board Support Packages (BSP), customizing the Linux kernel, and writing drivers to enable full hardware functionality.<br>
+- <b>System Architecture & Embedded C/C++:</b> Designing and building robust, real-time embedded systems from the ground up. C and C++.<br>
+- <b>Linux Kernel & Hardware Enablement (ARM):</b> Specializing in hardware bring-up and systems programming on ARM architectures. I have hands-on experience developing Linux D/D and customizing SDK.<br>
 - <b>Next-Generation Automotive Software:</b> Developing safety-critical software for the Software-Defined Vehicle (SDV) ecosystem. Experienced in creating solutions for vehicle control units, real-time communication (e.g., CAN), and comprehensive SILS/HILS validation.<br>
-- <b>AI Systems at the Edge:</b> Engineering intelligent systems by deploying optimized AI models directly on embedded hardware. My current focus is on the practical application of Large Language Models (LLMs) for in-vehicle systems, from advanced diagnostics to interpreting complex sensor data. <br>
+- <b>AI Systems at the Edge</b> Engineering intelligent systems by deploying optimized AI models directly on embedded hardware. My current focus is on the practical application of Large Language Models (LLMs) for in-vehicle systems, from advanced diagnostics to interpreting complex sensor data. <br>
 
 
 ### 🚀 Latest Project Highlights:
@@ -19,7 +19,7 @@ This architecture achieves optimal performance and capability—all while ensuri
 
 - <b>Modern AI on Embedded Linux (GCC Backporting & BitNet Porting):</b>
 Executed a complex toolchain upgrade by successfully backporting GCC 12 into a legacy Yocto SDK environment originally built with GCC 9.
-This critical, foundational work unlocked modern C++ features and compiler optimizations, directly enabling the successful porting and optimization of the cutting-edge BitNet (1-bit LLM) architecture for a resource-constrained ARM target.
+This critical, foundational work unlocked modern C++ features and NEON optimizations, directly enabling the successful porting and optimization of the cutting-edge BitNet (1-bit LLM) architecture for a resource-constrained ARM target.
 
 
 #### 📫 Let's Connect!
