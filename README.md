@@ -6,7 +6,7 @@ My goal is to develop robust, real-time software that brings intelligent and saf
 
 
 ### 🔭 My Core Interests & Focus Areas:
-- <b>System Architecture & Embedded C/C++:</b> Designing and building robust, real-time embedded systems from the ground up. C and C++.<br>
+- <b>System Architecture & Embedded C/C++:</b> Designing and building robust, real-time embedded systems from the ground up. <br> C and C++.<br>
 - <b>Linux Kernel & Hardware Enablement (ARM):</b> Specializing in hardware bring-up and systems programming on ARM architectures. I have hands-on experience developing Linux D/D and customizing SDK.<br>
 - <b>Next-Generation Automotive Software:</b> Developing safety-critical software for the Software-Defined Vehicle (SDV) ecosystem. Experienced in creating solutions for vehicle control units, real-time communication (e.g., CAN), and comprehensive SILS/HILS validation.<br>
 - <b>AI Systems at the Edge</b> Engineering intelligent systems by deploying optimized AI models directly on embedded hardware. My current focus is on the practical application of Large Language Models (LLMs) for in-vehicle systems, from advanced diagnostics to interpreting complex sensor data. <br>
